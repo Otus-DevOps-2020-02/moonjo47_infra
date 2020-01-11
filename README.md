@@ -1,2 +1,2 @@
-# moonjo47_infra
-moonjo47 Infra repository
+# Материалы по курсу "DevOps практики и инструменты"
+Cтудент Квитчик Родион
