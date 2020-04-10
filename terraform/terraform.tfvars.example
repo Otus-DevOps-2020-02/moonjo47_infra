@@ -1,0 +1,4 @@
+project          = "infra-123456"
+public_key_path  = "~/.otus/joke.pub"
+disk_image       = "reddit-base-123456789"
+private_key_path = "~/.otus/joke"
