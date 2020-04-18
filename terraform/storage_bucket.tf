@@ -8,7 +8,7 @@ module "storage-bucket" {
   source  = "SweetOps/storage-bucket/google"
   version = "0.3.0"
 
-  # Имя поменяйте на другое
+  # Имя поменяйте на другое :)
   name     = "storage-bucket-moonjo"
   location = "europe-west1"
 }
