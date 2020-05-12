@@ -28,6 +28,4 @@ module "vpc" {
   public_key_path = var.public_key_path
   zone            = var.zone
   source_ranges   = ["0.0.0.0/0"]
-  # 109.173.21.133/32 - my IP
-  # 80.250.215.124/32 - another IP
 }
