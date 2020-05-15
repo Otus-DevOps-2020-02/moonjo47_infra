@@ -5,3 +5,5 @@
 *.backup
 .terraform
 *.retry
+jdauphant.nginx
+vault.key
